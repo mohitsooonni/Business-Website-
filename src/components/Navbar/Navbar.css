@@ -19,3 +19,12 @@
   font-weight: bold;
   cursor: pointer;
 }
+
+.n-right {
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2.5rem;
+  font-size: 0.9rem;
+}
