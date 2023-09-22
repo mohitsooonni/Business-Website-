@@ -10,7 +10,17 @@ const Navbar = () => {
             <span>Growbizz</span>
           </div>
 
-          <div className="n-right"></div>
+            <div className="n-right">
+            <div className="n-menu">
+              <span>What we do</span>
+              <span>How it works</span>
+              <span>Who we invest in</span>
+              <span>Testimonials</span>
+            </div>
+            <div className="fund-button">
+              Button
+            </div>
+          </div>
         </div>
       </div>
     </div>
