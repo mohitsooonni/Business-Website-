@@ -18,7 +18,11 @@ const Navbar = () => {
             <span>Growbizz</span>
           </div>
 
+<<<<<<< HEAD
           <div className="n-right">
+=======
+            <div className="n-right">
+>>>>>>> c08bdf28f98263b6ef9ba95d4bebbf5b30a9b8e1
             <div className="n-menu">
               <span>What we do</span>
               <span>How it works</span>
@@ -26,6 +30,7 @@ const Navbar = () => {
               <span>Testimonials</span>
             </div>
             <div className="fund-button">
+<<<<<<< HEAD
               Get Funded
             </div>
           </div>
@@ -70,6 +75,11 @@ const Navbar = () => {
           <div className="m-funded-button">
             Get Funded
           </div>
+=======
+              Button
+            </div>
+          </div>
+>>>>>>> c08bdf28f98263b6ef9ba95d4bebbf5b30a9b8e1
         </div>
       </div>
     </div>

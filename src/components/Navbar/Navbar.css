@@ -28,6 +28,7 @@
   gap: 2.5rem;
   font-size: 0.9rem;
 }
+<<<<<<< HEAD
 
 .n-menu {
   display: flex;
@@ -108,3 +109,5 @@
     color: var(--dark-bg);
   }
 }
+=======
+>>>>>>> c08bdf28f98263b6ef9ba95d4bebbf5b30a9b8e1
