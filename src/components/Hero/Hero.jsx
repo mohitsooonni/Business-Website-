@@ -4,7 +4,7 @@ import "./Hero.css";
 import React from "react";
 import EmailBox from "../Email box/EmailBox";
 import { HeroData } from "@/src/utils/data";
-import { animate, motion } from "framer-motion";
+import { motion } from "framer-motion";
 
 const Hero = () => {
   const variants = (delay) => ({
